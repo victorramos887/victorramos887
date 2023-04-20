@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T13:24:53.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dtbpndVS7VfrkYrC-l5x" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T13:25:21.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jCEr8K0M5VVSqCA-hCUs" version="21.1.2" type="github">
   <diagram name="Página-1" id="AKogJuHXAMV5DzB095S-">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LWM7U2PQ-OEs_Fkb85i-4" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;npx create-react-ap project&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="364" y="140" width="226" height="80" as="geometry" />
+          <mxGeometry x="340" y="120" width="226" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
